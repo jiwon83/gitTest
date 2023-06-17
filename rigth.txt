@@ -3,3 +3,4 @@ right
 2
 3
 4
+pull is fetch + merge ? ok.
