@@ -2,8 +2,5 @@
     "explorer.excludeGitIgnore": true,
     "files.exclude": {
         "**/.git": false
-    },
-    "search.exclude": {
-        "**/.vscode": true
     }
 }
